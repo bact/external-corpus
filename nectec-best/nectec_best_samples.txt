@@ -1,0 +1,16 @@
+article_00001.txt
+article_00006.txt
+article_00022.txt
+article_00039.txt
+encyclopedia_00004.txt
+encyclopedia_00042.txt
+encyclopedia_00074.txt
+encyclopedia_00095.txt
+news_00001.txt
+news_00002.txt
+news_00004.txt
+news_00005.txt
+novel_00049.txt
+novel_00052.txt
+novel_00081.txt
+novel_00084.txt
