@@ -6,7 +6,7 @@ BEST is a corpus of Thai text with two kinds of annotations: word boundaries (pr
 
 Original text were drawn from text in four genres: article, encyclopedia, news, and novel.
 
-In this sample, we drawn four files from each genre (total = 16 files). Most of the time, we pick the smallest files in each genre.
+In this sample, we drawn four files from each genre (total = 16 files). Most of the time, we pick the smallest files in each genre. The amount of data here is very small compared to the actual corpus. The purpose of having a sample here is to give people an idea how the corpus, which is no longer avialable to download publicly, looks like in terms of data format and text genres.
 
 ## Sample text from 'article' genre
 
